@@ -54,8 +54,8 @@ PassengerId,Survived
 
 #### پوشه‌ها و فایل‌ها
 - `data/` : شامل فایل‌های داده‌ها (train.csv و test.csv).
-- `notebook/` : شامل نوت‌بوک‌های Jupyter برای تحلیل اکتشافی و مدل‌سازی.
-- `src/` : شامل کدهای منبع پروژه به صورت ماژولار و سازمان‌یافته.
+- `output` : test شامل خروجی نمودار ها و نتیجه پیش بینی مدل بر روی داده های 
+- `Code` : شامل کدهای منبع پروژه به صورت ماژولار و سازمان‌یافته.
 - `main.py` : فایل اصلی برای اجرای کل پروژه.
 - `README.md` : توضیحات پروژه (این فایل).
 - `requirements.txt` : شامل کتابخانه‌های مورد نیاز پروژه.
@@ -130,8 +130,8 @@ PassengerId,Survived
 
 #### Folders and Files
 - `data/` : Contains the data files (train.csv and test.csv).
-- `notebook/` : Contains Jupyter notebooks for EDA and modeling.
-- `src/` : Contains source code for the project, organized in a modular manner.
+- `output` : out put of plots and the file of model prediction on test data.
+- `Code` : Contains source code for the project, organized in a modular manner.
 - `main.py` : The main script to run the entire project.
 - `README.md` : Project documentation (this file).
 - `requirements.txt` : Contains the required libraries for the project.
